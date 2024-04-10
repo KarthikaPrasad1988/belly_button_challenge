@@ -14,8 +14,3 @@ The demographic information panel updates whenever a new Subject ID is selected.
 
 ![alt text](https://github.com/candidamg/belly-button-challenge/blob/main/html_dashboard.PNG)
 
-### REFERENCES:
-* bubble chart: https://plotly.com/javascript/bubble-charts/
-* colorscale for bubble chart: https://plotly.com/javascript/colorscales/
-* Iterating through an object: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries#iterating_through_an_object:~:text=Iterating%20through%20an%20Object
-* Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/
